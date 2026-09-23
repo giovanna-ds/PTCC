@@ -1,0 +1,4 @@
+1 - Todas as alterações possíveis nas imagens, e legendas de descrição estão prontas
+2 - Cinco seções foram adicionadas: Brigadeiros, Pudim, Churros, Coxinhas, Fondue, Cones, CheeseCake e Pipoca Gourmet
+3 - Mudei a ordem dos produtos. Coloquei em ordem alfabética visando a organização.
+4 - Adicionei a parte de finanças na pagina de adm e um botão de encomenda na index
